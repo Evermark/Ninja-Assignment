@@ -1,0 +1,9 @@
+img{
+  width:20%;
+  height:20%;
+  display: inline-block;
+}
+button{
+  font-size: 35px;
+  align-items: center; 
+}
